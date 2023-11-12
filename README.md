@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, <br><br>I'm a passionate web developer and Python developer with 2 years of experience<br><br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, Vue<br>- Back-end languages: Node.js, Python, Ruby, PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫 How to reach me:<br>- Email: m.ebrahimi12@outlook.com<br>- LinkedIn: https://www.linkedin.com/in/mebrahimi494<br>- Facebook: https://www.facebook.com/m.ebrahimi12<br><br>
+<br><br>I'm a passionate web developer and Python developer with 2 years of experience<br><br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, Vue<br>- Back-end languages: Node.js, Python, Ruby, PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫 How to reach me:<br>- Email: m.ebrahimi12@outlook.com<br>- LinkedIn: https://www.linkedin.com/in/mebrahimi494<br>- Facebook: https://www.facebook.com/m.ebrahimi12<br><br>
 
 
 ## 🌐 Socials:
