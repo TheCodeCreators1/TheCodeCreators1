@@ -1,10 +1,10 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FATEMA+EBRAHIMI;I'm+19+years+old;I+am+from+Afghanistan,+Herat;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FATEMA+EBRAHIMI;I+am+from+Afghanistan,+Herat;)](https://git.io/typing-svg)
 
 
-👋 <br>I'm a passionate Web developer with 2+ years of experience<br><br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, Vue<br>- Back-end languages: Node.js, Python, Ruby, PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫 How to reach me:<br>- Email: m.ebrahimi12@outlook.com<br>- Facebook: www.facebook.com/TheCodeCreators2<br><br>
+👋 <br>I'm a passionate Web developer with 2+ years of experience<br><br>🛠️ My Tech Stack:<br>- HTML, CSS, JavaScript<br>- Front-end frameworks libraries: React, Angular, Vue<br>- Back-end languages: Node.js, Python, Ruby, PHP<br>- Databases: MySQL, MongoDB, PostgreSQL, etc.<br>- Version control: Git, GitHub<br><br><br>📫 How to reach me:<br>- Email: m.ebrahimi12@outlook.com<br>- Facebook: www.facebook.com/TheCodeCreators2<br>Hire ME:https://www.upwork.com/freelancers/fatimae20<br>
 
 
 ## 🌐 Socials:
